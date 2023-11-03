@@ -56,10 +56,10 @@ global.dygp = 'https://t.me/+ts7jY2FS3y9jNjRl'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
 global.fgyt = 'https://t.me/+ts7jY2FS3y9jNjRl
 global.fgpyp = 'https://t.me/+ts7jY2FS3y9jNjRl
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fglog ='https://ibb.co/GsMHdn4' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*💝 _Waiting Bro Uploading by 💝 Mr. Cyber-psycho💝..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
