@@ -52,10 +52,10 @@ global.premium = 'true'
 global.packname = '💝 Mr. Cyber-Psycho💝 Created By 💝 syamser²⁰²³ 💝' 
 global.author = '💝 syamser²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/_mr.fro_ud_?\n' 
-global.dygp = ''
+global.dygp = 'https://t.me/+ts7jY2FS3y9jNjRl'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://t.me/+ts7jY2FS3y9jNjRl
+global.fgpyp = 'https://t.me/+ts7jY2FS3y9jNjRl
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
