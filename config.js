@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919947121619', 'Mr. Cyber-Psycho', true],
+  ['+919947121619', 'Mr. Cyber-Psycho', true],
   ['9947121619', 'Mr. Cyber-Psycho²⁰²³', true], 
-  ['919047121619'] 
+  ['+919047121619'] 
 ] //Number of owners
 
-global.mods = ['919947121619'] 
+global.mods = ['+919947121619'] 
 global.prems = ['9947121619']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
